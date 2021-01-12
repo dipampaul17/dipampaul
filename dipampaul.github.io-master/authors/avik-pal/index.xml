@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Avik Pal | Aniket Das</title>
+    <link>https://aniket1998.github.io/authors/avik-pal/</link>
+      <atom:link href="https://aniket1998.github.io/authors/avik-pal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Avik Pal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Sep 2019 07:23:54 +0530</lastBuildDate>
+    <image>
+      <url>https://aniket1998.github.io/img/icon-192.png</url>
+      <title>Avik Pal</title>
+      <link>https://aniket1998.github.io/authors/avik-pal/</link>
+    </image>
+    
+    <item>
+      <title>TorchGAN: A Flexible Framework for GAN Training and Evaluation</title>
+      <link>https://aniket1998.github.io/publication/1torchgan/</link>
+      <pubDate>Sun, 08 Sep 2019 07:23:54 +0530</pubDate>
+      <guid>https://aniket1998.github.io/publication/1torchgan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

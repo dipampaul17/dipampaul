@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>freshman | Aniket Das</title>
+    <link>https://aniket1998.github.io/tags/freshman/</link>
+      <atom:link href="https://aniket1998.github.io/tags/freshman/index.xml" rel="self" type="application/rss+xml" />
+    <description>freshman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 May 2018 02:25:14 +0530</lastBuildDate>
+    <image>
+      <url>https://aniket1998.github.io/img/icon-192.png</url>
+      <title>freshman</title>
+      <link>https://aniket1998.github.io/tags/freshman/</link>
+    </image>
+    
+    <item>
+      <title>Computational Models for Human Inference of Social Situations</title>
+      <link>https://aniket1998.github.io/project/4nsriv/</link>
+      <pubDate>Wed, 16 May 2018 02:25:14 +0530</pubDate>
+      <guid>https://aniket1998.github.io/project/4nsriv/</guid>
+      <description>&lt;p&gt;Aimed to characterize the nature and granularity of information about social interactions accessible to human observers from simple visual displays. Studied lay theories of human emotion modelling and developed a computational model for social situations involving few agents, based on the Valence Arousal Model of emotion detection and the Social Force Model for Pedestrian Dynamics&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Attention Based Models for Image Captioning and Generation</title>
+      <link>https://aniket1998.github.io/project/5pclub/</link>
+      <pubDate>Mon, 16 Apr 2018 02:25:19 +0530</pubDate>
+      <guid>https://aniket1998.github.io/project/5pclub/</guid>
+      <description>&lt;p&gt;Studied the theory of encoder decoder sequence models, soft attention and hard attention and reproduced the results in &lt;a href=&#34;https://arxiv.org/pdf/1502.03044.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Show Attend and Tell : Neural Image Caption Generation with Visual Attention&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Case Studies : A Legal Consultant Bot</title>
+      <link>https://aniket1998.github.io/project/6cfd/</link>
+      <pubDate>Sat, 16 Dec 2017 02:25:24 +0530</pubDate>
+      <guid>https://aniket1998.github.io/project/6cfd/</guid>
+      <description>&lt;p&gt;Developed a legal consultant bot that summarises a legal document, highlights the key phrases and answers some rudimentary questions about the document as part of the Microsoft code.fun.do Hackathon on AI and NLP. Created a custom dataset by scrapinng from an archive of Indian legal documents, and Used TextRank Algorithm on the large text corpora and Latent Dirichlet Allocation for topic modelling. Selected as one of the top 3 ideas on campus by Microsoft Judges&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

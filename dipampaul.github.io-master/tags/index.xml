@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Aniket Das</title>
+    <link>https://aniket1998.github.io/tags/</link>
+      <atom:link href="https://aniket1998.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Sep 2019 02:24:53 +0530</lastBuildDate>
+    <image>
+      <url>https://aniket1998.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://aniket1998.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>ongoing</title>
+      <link>https://aniket1998.github.io/tags/ongoing/</link>
+      <pubDate>Sat, 07 Sep 2019 02:24:53 +0530</pubDate>
+      <guid>https://aniket1998.github.io/tags/ongoing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sophomore</title>
+      <link>https://aniket1998.github.io/tags/sophomore/</link>
+      <pubDate>Sat, 16 Feb 2019 02:22:35 +0530</pubDate>
+      <guid>https://aniket1998.github.io/tags/sophomore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freshman</title>
+      <link>https://aniket1998.github.io/tags/freshman/</link>
+      <pubDate>Wed, 16 May 2018 02:25:14 +0530</pubDate>
+      <guid>https://aniket1998.github.io/tags/freshman/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

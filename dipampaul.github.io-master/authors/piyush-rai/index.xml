@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Piyush Rai | Aniket Das</title>
+    <link>https://aniket1998.github.io/authors/piyush-rai/</link>
+      <atom:link href="https://aniket1998.github.io/authors/piyush-rai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Piyush Rai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2019 07:04:00 +0530</lastBuildDate>
+    <image>
+      <url>https://aniket1998.github.io/img/icon-192.png</url>
+      <title>Piyush Rai</title>
+      <link>https://aniket1998.github.io/authors/piyush-rai/</link>
+    </image>
+    
+    <item>
+      <title>Joint Image and Video Generation using Residual Vectors</title>
+      <link>https://aniket1998.github.io/publication/2wacv/</link>
+      <pubDate>Wed, 11 Sep 2019 07:04:00 +0530</pubDate>
+      <guid>https://aniket1998.github.io/publication/2wacv/</guid>
+      <description>&lt;p&gt;We propose a hierarchical model that first generates a summary frame for the video, and then models individual frames by adding to the summary frame&amp;rsquo;s latent code, sequentially dependent residual vectors conditioned on the summary frame. We further extended this idea to video generation models that disentangle content from dynamics, by adding to the base content representation, a residual vector at each timestep conditioned on the base content vector and the dynamics of the given timestep. Currently submitted to &lt;em&gt;Winter Conference on the Applications of Computer Vision (WACV) 2020&lt;/em&gt;. Pre-print and code will be made public soon&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
